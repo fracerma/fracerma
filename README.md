@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fracerma a MSc student in Computer Science.
 - 👀 I’m interested in Cloud Computing and Computer Security
-- 🌱 I’m currently AWS
+- 🌱 I’m currently learing AWS
 - 📫 How to reach me: @Linkedin and @Telegram
 
 <!---
