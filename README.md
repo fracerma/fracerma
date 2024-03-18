@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @fracerma a Machine Learning Engineer
 - 👀 I’m interested in Machine Learning and Computer Security
-- 🌱 I’m currently learing finetuning LLMs
+- 🌱 I’m currently learning fine-tuning LLMs
